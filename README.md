@@ -1,4 +1,4 @@
 # snigdharoy.github.io
 updated personal website
 
-Design: SlickNav from Josh Cope
+Inspired by Josh Cope, 2016
