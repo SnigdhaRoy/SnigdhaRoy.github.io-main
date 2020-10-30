@@ -23,7 +23,7 @@ $(window).on('load', function() {
 	const typedTextSpan = document.querySelector(".typed-text");
 	const cursorSpan = document.querySelector(".cursor");
 	
-	const textArray = ["a high school student in New York.", "the CEO of Greening Forward.", "writing a book about coding journeys.", "mastering Machine Learning", "writing about tech as a contributing media writer ", "interested in meeting you! :) "];
+	const textArray = ["a high school student in New York.", "the CEO of Greening Forward.", "writing a book about coding journeys.", "mastering Machine Learning.", "writing about tech as a contributing media writer.", "interested in meeting you! :) "];
 	const typingDelay = 100;
 	const erasingDelay = 100;
 	const newTextDelay = 2000; // Delay between current and next text
